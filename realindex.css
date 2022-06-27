@@ -1,0 +1,25 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+h1 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color:firebrick;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    color:peru;
+    text-align: center;
+}
+
+#example1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+  }
+  
